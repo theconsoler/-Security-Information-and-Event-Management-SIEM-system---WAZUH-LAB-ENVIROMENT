@@ -121,11 +121,6 @@ Download and install agent from [Wazuh Agents Download](https://documentation.wa
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](./LICENSE).  
-
----
-
 ## 👨‍💻 Author
 Developed by **Piyush Kumar Sahoo & Team**  
 B.Tech Cybersecurity & Cyber Defense, Sri Sri University  
